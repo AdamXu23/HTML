@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open ch02_00_HTML_Element_Label_Attribute.html",
-            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML_internal\\Chapter_02\\ch02_00_HTML_Element_Label_Attribute.html"
+            "name": "Open ch02_02_HTML_Paragraph.html",
+            "file": "c:\\Users\\xsz19\\Documents\\GitHub\\HTML_internal\\Chapter_02\\ch02_02_HTML_Paragraph.html"
         }
     ]
 }
