@@ -1,0 +1,14 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open ch02_00_HTML_Element_Label_Attribute.html",
+            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML_internal\\Chapter_02\\ch02_00_HTML_Element_Label_Attribute.html"
+        }
+    ]
+}
