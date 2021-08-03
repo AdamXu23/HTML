@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open ch03_05_audio.html",
-            "file": "c:\\Users\\xsz19\\Documents\\GitHub\\HTML\\Chapter_03\\Chapter_03_04\\ch03_05_audio.html"
+            "name": "Open ch03_06_video.html",
+            "file": "c:\\Users\\xsz19\\Documents\\GitHub\\HTML\\Chapter_03\\Chapter_03_05\\ch03_06_video.html"
         }
     ]
 }
