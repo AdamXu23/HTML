@@ -1,12 +1,12 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-02 13:36:33
- * @LastEditTime: 2021-08-03 08:22:06
+ * @LastEditTime: 2021-08-03 08:34:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \HTML_internal\Chapter_02\README.md
 -->
-# Chapter-02 HTML結構與文字段落
+# 
 Previous page [**Repositories**](https://github.com/AdamXu23/HTML)。
 >0.  HTML的文本結構[**HTML_File_Structure**](https://github.com/AdamXu23/HTML)。
 >1.  段落
@@ -25,18 +25,23 @@ Previous page [**Repositories**](https://github.com/AdamXu23/HTML_internal)。
 <html lang="zh">
     <head>
         <meta charset="UTF-8">
-        <title>蘭嶼。微旅行</title>
+        <title>Chapter-02 HTML結構與文字段落</title>
+        <style>
+            h1 {
+                background: red;
+            }
+        </style>
     </head>
     <body>
         <header>
-            <h1>蘭嶼。微旅行</h1>
+            <h1>Chapter-02 HTML結構與文字段落</h1>
             <nav>
-                <ul>
+                <ol>
                     <li><a href="#">首頁</a></li>
                     <li><a href="#">必旅路線</a></li>
                     <li><a href="#">旅人微博</a></li>
                     <li><a href="#">相關資訊</a></li>
-                </ul>
+                </ol>
             </nav>
         </header>
         <article>
