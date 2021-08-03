@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-02 13:36:33
- * @LastEditTime: 2021-08-03 08:34:06
+ * @LastEditTime: 2021-08-03 08:36:11
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \HTML_internal\Chapter_02\README.md
@@ -26,11 +26,6 @@ Previous page [**Repositories**](https://github.com/AdamXu23/HTML_internal)。
     <head>
         <meta charset="UTF-8">
         <title>Chapter-02 HTML結構與文字段落</title>
-        <style>
-            h1 {
-                background: red;
-            }
-        </style>
     </head>
     <body>
         <header>
