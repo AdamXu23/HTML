@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open ch03_00_Path.html",
-            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML_internal\\Chapter_03\\Chapter_03_01\\ch03_00_Path.html"
+            "name": "Open ch03_01_Hyperlink.html",
+            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_03\\Chapter_03_02\\ch03_01_Hyperlink.html"
         }
     ]
 }
