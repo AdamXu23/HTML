@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-04 19:29:12
- * @LastEditTime: 2021-08-04 19:43:44
+ * @LastEditTime: 2021-08-04 20:01:36
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \HTML\Chapter_04\Chapter_04_02\ch04_10_newadd.html
@@ -13,10 +13,10 @@
         <title>HTML New Add</title>
     </head>
     <body>
-        <from autumn="">
+        <from action="">
             <p>
                 <label for="username">User Name</label> 
-                <input type="text" name="username_1" id="username" placeholder="User Name" required autofocus>
+                <input type="text" name="username_1" id="username" placeholder="UserName" required autofocus>
             </p>
             <p>
                 <label for="Find">find</label> 
@@ -30,6 +30,39 @@
                 <label for="email2">Email2</label>
                 <input type="email" name="email_2" id="email2" placeholder="Email2"
                     pattern="[a-z0-9._%+1]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+            </p>
+            <p>
+                <label for="url">Url</label>
+                <input type="url" name="uel_1" id="url">
+            </p>
+            <p>
+                <label for="tel">Tel</label>
+                <input type="tel" name="tel_1" id="tel">
+            </p>
+            <p>
+                <label for="number">Number</label>
+                <input type="number" name="number_1" id="number" min="1" max="21" step="3">
+            </p>
+            <p>
+                <label for="date">Date</label>
+                <input type="date" name="date_1" id="date">
+            </p>
+            <p>
+                <label for="time">Time</label>
+                <input type="time" name="time_1" id="time">
+            </p>
+            <p>
+                <label for="range">Range</label>
+                <input type="range" name="range_1" id="range">
+            </p> 
+            <p>
+                <label for="color">Color</label>
+                <input type="color" name="color_1" id="color">
+            </p>
+            <p>
+                <input type="submit" value="Send out">
+                <input type="submit" value="reset">
+
             </p>
         </from>
     </body>

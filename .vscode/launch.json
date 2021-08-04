@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "pwa-chrome",
+            "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open ch04_09_fieldset_legend.html",
-            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_04\\Chapter_04_02\\ch04_09_fieldset_legend.html"
+            "name": "Open ch04_10_newadd.html",
+            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_04\\Chapter_04_02\\ch04_10_newadd.html"
         }
     ]
 }
