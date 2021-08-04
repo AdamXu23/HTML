@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open ch04_03_Form.html",
-            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_04\\Chapter_04_02\\ch04_03_Form.html"
+            "name": "Open ch04_04_radio_checkbox.html",
+            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_04\\Chapter_04_02\\ch04_04_radio_checkbox.html"
         }
     ]
 }
