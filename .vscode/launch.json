@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open ch03_06_video.html",
-            "file": "c:\\Users\\xsz19\\Documents\\GitHub\\HTML\\Chapter_03\\Chapter_03_05\\ch03_06_video.html"
+            "name": "Open ch04_01_table.html",
+            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_04\\Chapter_04_01\\ch04_01_table.html"
         }
     ]
 }
