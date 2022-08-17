@@ -7,8 +7,8 @@
         {
             "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open ch04_10_newadd.html",
-            "file": "c:\\Users\\M5510\\Documents\\GitHub\\HTML\\Chapter_04\\Chapter_04_02\\ch04_10_newadd.html"
+            "name": "ch02_1_HTML_File_Structure.html",
+            "file": "F:\\Adam Data\\GitHub\\HTML\\Chapter_02\\Chapter_02_01\\ch01_00_HTML_File_Structure.html"
         }
     ]
 }
